@@ -1,0 +1,5 @@
+# production
+/build
+/.idea
+/.gradle
+*.log
